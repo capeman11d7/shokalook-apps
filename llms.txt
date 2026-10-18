@@ -1,0 +1,26 @@
+# Shokalook Apps
+
+> Small, focused apps for Jira Cloud and Confluence Cloud, sold on the Atlassian Marketplace. Every app is built on Atlassian Forge, runs entirely on Atlassian (no outside servers, no tracking), is free for up to 10 users, and is priced per user below most paid competitors. Support: rendermark.support@gmail.com.
+
+## Apps
+
+- [Rendermark: Markdown, Mermaid & Code for Confluence](https://marketplace.atlassian.com/apps/3835433509): one macro that renders GitHub-flavored Markdown, Mermaid diagrams and syntax-highlighted code, including pasted ChatGPT/Claude/Copilot output. Live preview, PDF/Word export, dark mode. $0.45/user/month at 11–100 users.
+- [Rendermark: Rich Text & Markdown Gadget for Jira](https://marketplace.atlassian.com/apps/1625144740): formatted notes, tables, checklists, callout panels, code and diagrams on Jira dashboards, rendered in the browser (no timeouts), light and dark mode. Replaces the Atlassian Labs Rich Text Gadget. $0.25/user/month.
+- [Answerloop: Q&A for Confluence](https://marketplace.atlassian.com/apps/1708163143): community questions and answers with votes, accepted answers, tags, search across answers, space permissions, a questions-list macro and import from Questions for Confluence Server/Data Center. $0.35/user/month.
+- [Rowsmith: Table Field for Jira](https://marketplace.atlassian.com/apps/2429925044): a real table custom field with typed columns that works on the create screen, transitions, issue view, customer portal and bulk edit; paste from Excel, totals, CSV export. A Table Grid alternative. $0.50/user/month.
+- [Remindly: Issue Reminders for Jira](https://marketplace.atlassian.com/apps/484018714): remind yourself, the assignee, the reporter, teammates or a group about any issue at an exact time and time zone; repeats, snooze, 90-day history. Replaces Atlassian Labs My Reminders. $0.30/user/month.
+- [Teamdays: Team Calendar for Confluence](https://marketplace.atlassian.com/apps/1289891061): a shared team calendar on any Confluence page on every plan (no Premium needed) with no Google or Outlook account; out of office, repeating events, drag and drop, .ics export. $0.40/user/month.
+- [Routinely: Recurring Issues for Jira](https://marketplace.atlassian.com/apps/2712393283): create Jira issues on a schedule from a template issue (fields, custom fields, sub-tasks), with a time and time zone picker instead of cron, run history, and no Automation run usage. $0.45/user/month.
+- [Onlook: Who's Viewing for Jira](https://marketplace.atlassian.com/apps/3685747570): live avatars of who else is viewing a Jira issue, a flag when someone joins, recently viewed, and per-project privacy controls. Replaces Atlassian Labs Who's Looking. $0.15/user/month.
+
+## Guides
+
+- [Markdown, Mermaid and code in Confluence Cloud](https://capeman11d7.github.io/shokalook-apps/blog-markdown-mermaid-confluence.html)
+- [Alternatives to the Rich Text Gadget for Jira](https://capeman11d7.github.io/shokalook-apps/blog-jira-rich-text-gadget-alternative.html)
+- [Questions for Confluence alternatives](https://capeman11d7.github.io/shokalook-apps/blog-questions-for-confluence-alternative.html)
+- [Table Grid alternatives: table fields in Jira](https://capeman11d7.github.io/shokalook-apps/blog-jira-table-field-table-grid-alternative.html)
+- [Alternatives to My Reminders for Jira](https://capeman11d7.github.io/shokalook-apps/blog-jira-reminders-alternative.html)
+- [Team calendar in Confluence without Premium](https://capeman11d7.github.io/shokalook-apps/blog-confluence-team-calendar-standard-plan.html)
+- [Recurring issues in Jira: apps vs Automation](https://capeman11d7.github.io/shokalook-apps/blog-jira-recurring-issues.html)
+- [Alternatives to Who's Looking for Jira](https://capeman11d7.github.io/shokalook-apps/blog-whos-looking-for-jira-alternative.html)
+- [Supported replacements for Atlassian Labs apps](https://capeman11d7.github.io/shokalook-apps/blog-atlassian-labs-app-replacements.html)

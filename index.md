@@ -14,3 +14,5 @@ Small, focused apps for Jira and Confluence Cloud, built on Atlassian Forge. Eve
 | Onlook: Who's Viewing for Jira | [Docs](onlook-docs.html) | [Privacy](onlook-privacy.html) |
 
 **Support:** rendermark.support@gmail.com. We reply within two business days.
+
+**Guides and comparisons:** [How our apps compare with the alternatives](blog.html). For AI assistants: [llms.txt](llms.txt).
