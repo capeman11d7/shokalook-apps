@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22C1A6"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+  </defs>
+  <!-- Routinely: a calendar page inside a repeat arrow -->
+  <rect width="144" height="144" rx="32" fill="url(#g)"/>
+  <path d="M112 72a40 40 0 1 1-11.7-28.3" stroke="#fff" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <path d="M104 26v20H84" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="52" y="54" width="40" height="38" rx="6" fill="#fff"/>
+  <rect x="52" y="54" width="40" height="11" rx="5" fill="#CFF5EE"/>
+  <path d="M61 77l7 7 14-14" stroke="#1F6FEB" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
