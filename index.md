@@ -10,5 +10,7 @@ Small, focused apps for Jira and Confluence Cloud, built on Atlassian Forge. Eve
 | Rowsmith: Table Field for Jira | [Docs](rowsmith-docs.html) | [Privacy](rowsmith-privacy.html) |
 | Remindly: Issue Reminders for Jira | [Docs](remindly-docs.html) | [Privacy](remindly-privacy.html) |
 | Teamdays: Team Calendar for Confluence | [Docs](teamdays-docs.html) | [Privacy](teamdays-privacy.html) |
+| Routinely: Recurring Issues for Jira | [Docs](routinely-docs.html) | [Privacy](routinely-privacy.html) |
+| Onlook: Who's Viewing for Jira | [Docs](onlook-docs.html) | [Privacy](onlook-privacy.html) |
 
 **Support:** rendermark.support@gmail.com. We reply within two business days.
